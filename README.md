@@ -3,7 +3,7 @@
 Works with A-10C and A-10C II.
 
 # WTF it's for
-This program lets you simply copy the coorinates from the WebGCI and press a hotkey that will auto tab back into DCS and send the coords in the clipboard to your CDU. 
+This program lets you simply copy the coorinates from the WebGCI and press a hotkey that will auto tab back into DCS and send the coords in the clipboard to your CDU. It also auto converts the WebGCI coords into the A10 CDU format to make life easier for us.
 
 # Developer Note
 When I made this, it was something small for me. I am simply sharing it to whoever would like to share. If you edit it all I ask is you retain the Cyunide in the title of the window for credit. You can contact me on Hoggit Discord @TheSurgeon
