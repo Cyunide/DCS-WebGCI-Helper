@@ -28,3 +28,6 @@ The entire source code is available. If you just want to use the program it is l
 2. Open the WebGCI and select something on the map. 
 3. Copy the Latitude and Longitude to your clipboard.
 4. Press Shift+C and the program will auto switch back to DCS and enter the coords.
+
+# Special Thanks
+Special thank you to Hoggit for hosting the servers and keeping things running smoothly!
