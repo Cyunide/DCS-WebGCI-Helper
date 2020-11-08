@@ -9,8 +9,7 @@ This program lets you simply copy the coorinates from the WebGCI and press a hot
 When I made this, it was something small for me. I am simply sharing it to whoever would like to share. If you edit it all I ask is you retain the Cyunide in the title of the window for credit.
 
 # Downloading
-The entire source code is available. If you just want to use the program it is located in 
-DCS-WebGCI-Helper/DCS WebGCI Helper/bin/Debug/DCS WebGCI Helper.exe and will run standalone without any install.
+The entire source code is available. If you just want to use the program it is located at https://github.com/Cyunide/DCS-WebGCI-Helper/releases and will run standalone without any install.
 
 
 # Instructions:
