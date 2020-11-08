@@ -8,6 +8,11 @@ This program lets you simply copy the coorinates from the WebGCI and press a hot
 # Developer Note
 When I made this, it was something small for me. I am simply sharing it to whoever would like to share. If you edit it all I ask is you retain the Cyunide in the title of the window for credit.
 
+# Downloading
+The entire source code is available. If you just want to use the program it is located in 
+DCS-WebGCI-Helper/DCS WebGCI Helper/bin/Debug/DCS WebGCI Helper.exe and will run standalone without any install.
+
+
 # Instructions:
 ## Setup
 1. In the controls for your A-10. Set CDU 1 Key to LCtrl+1 (NOT LCtrl+Num1!!!) Be sure to use the number 1 above the q key. 
