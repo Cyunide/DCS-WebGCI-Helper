@@ -1,0 +1,13 @@
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\bin\Debug\DCS WebGCI Helper.exe
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\bin\Debug\DCS WebGCI Helper.pdb
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS WebGCI Helper.csprojAssemblyReference.cache
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS_WebGCI_Helper.Form1.resources
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS_WebGCI_Helper.Properties.Resources.resources
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS WebGCI Helper.csproj.GenerateResource.cache
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS WebGCI Helper.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS WebGCI Helper.exe
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS WebGCI Helper.pdb
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\bin\Debug\WindowsInput.dll
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\bin\Debug\WindowsInput.xml
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\obj\Debug\DCS WebGCI Helper.csproj.CopyComplete
+C:\Users\Cyrus\source\repos\DCS WebGCI Helper\DCS WebGCI Helper\bin\Debug\WindowsInput.pdb
