@@ -6,7 +6,7 @@ Works with A-10C and A-10C II.
 This program lets you simply copy the coorinates from the WebGCI and press a hotkey that will auto tab back into DCS and send the coords in the clipboard to your CDU. 
 
 # Developer Note
-When I made this, it was something small for me. I am simply sharing it to whoever would like to share. If you edit it all I ask is you retain the Cyunide in the title of the window for credit.
+When I made this, it was something small for me. I am simply sharing it to whoever would like to share. If you edit it all I ask is you retain the Cyunide in the title of the window for credit. You can contact me on Hoggit Discord @TheSurgeon
 
 # Downloading
 The entire source code is available. If you just want to use the program it is located at https://github.com/Cyunide/DCS-WebGCI-Helper/releases and will run standalone without any install.
