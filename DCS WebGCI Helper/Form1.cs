@@ -32,10 +32,6 @@ namespace DCS_WebGCI_Helper {
             RegisterHotKey(this.Handle, MYACTION_HOTKEY_ID, 0x4, (int)Keys.C);
         }
 
-        private void button1_Click(object sender, EventArgs e) {
-            
-        }
-
         protected override void WndProc(ref Message m) {
             if (m.Msg == 0x0312 && m.WParam.ToInt32() == MYACTION_HOTKEY_ID && chkArmed.Checked == true) {
                 
@@ -158,8 +154,6 @@ namespace DCS_WebGCI_Helper {
                 } else if (txt == "SAVEE") {
                     simu.Keyboard.ModifiedKeyStroke(VirtualKeyCode.LCONTROL, VirtualKeyCode.VK_R);
                 }
-                //simu.Keyboard.ModifiedKeyStroke(new[] { VirtualKeyCode.LCONTROL, VirtualKeyCode.LWIN }, VirtualKeyCode.VK_N);
-                //simu.Keyboard.ModifiedKeyStroke(VirtualKeyCode.LCONTROL, VirtualKeyCode.VK_N);
             }
         }
 
@@ -167,7 +161,6 @@ namespace DCS_WebGCI_Helper {
             txt = txt.Replace("°", "");
             txt = txt.Replace("'", "");
             txt = txt.Replace("\"", "");
-            //txt = txt.Replace(" ", "");
             return txt;
         }
 
